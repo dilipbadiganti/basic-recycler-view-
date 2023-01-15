@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecyclerFinal</string>
+
+    <string name="b_text">Language</string>
+    <string name="s_text">Founder</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="language_array">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+        <item>C++</item>
+        <item>Go</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>PHP</item>
+    </string-array>
+
+
+    <string-array name="founders_array">
+        <item>James Gosling</item>
+        <item>Guido van Rossum</item>
+        <item>Anders Hejlsberg</item>
+        <item>Brendan Eich</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Robert, Rob, Ken</item>
+        <item>Chris Lattner</item>
+        <item>JetBrains</item>
+        <item>Yukihiro Matsumoto</item>
+        <item>Rasmus Lerdorf</item>
+    </string-array>
+
+
+
+</resources>
